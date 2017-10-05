@@ -30,5 +30,24 @@ namespace postOrder
             }
             Console.WriteLine(s);
         }
+
+        public void PostOrder(Node L, ref string s)
+        {
+            if (L.left != null)
+            {
+                PostOrder(L.left, ref s);
+                if (L.right != null)
+                {
+                    PostOrder(L.right, ref s);
+                }
+                s = s + L.Value.ToString().PadLeft(3);
+
+            }
+            else
+            {
+                s = s + L.Value.ToString().PadLeft(3);
+            }
+            Console.WriteLine(s);
+        }
     }
 }
