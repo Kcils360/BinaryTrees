@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\breadthFirst",
+    "\\postOrder",
+    "\\postOrder\\postOrder"
   ],
+  "SelectedNode": "\\breadthFirst",
   "PreviewInSolutionExplorer": false
 }

@@ -1,12 +1,11 @@
 ﻿using System;
 
-namespace postOrder
+namespace breadthFirst
 {
     class Program
     {
         static void Main(string[] args)
         {
-
             Node root = new Node(1);
             Tree tree = new Tree(root);
             root.right = new Node(2);
@@ -17,10 +16,14 @@ namespace postOrder
             root.left.right = new Node(7);
 
             string InOrderString = "";
-           // tree.PrintTree(root, ref InOrderString);
+            tree.PrintTree(root, ref InOrderString);
+
+            string PostOrderString = "";
+            tree.PostOrder(root, ref PostOrderString);
 
             tree.BreadthFirst(root);
-            Console.Read();
+
+            Console.Read(); ;
         }
     }
 }
