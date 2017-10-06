@@ -50,9 +50,27 @@ namespace breadthFirst
             Console.WriteLine(s);
         }
 
-        public void BreadthFirst(Node L, ref string s)
+
+        public void BreadthFirst(Node data)
         {
-  
+            Queue<Node> queue = new Queue<Node>();
+            queue.Enqueue(data);
+            while (queue.Count > 0)
+            {
+                data = queue.Dequeue();
+                Console.Write(data.Value);
+
+                if (data.left != null)
+                {
+                    queue.Enqueue(data.left);
+                }
+                if (data.right != null)
+                {
+                    queue.Enqueue(data.right);
+                }
+            }
+            Console.WriteLine(queue);
         }
+        
     }
 }
