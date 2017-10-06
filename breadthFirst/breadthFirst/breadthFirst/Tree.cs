@@ -69,8 +69,6 @@ namespace breadthFirst
                     queue.Enqueue(data.right);
                 }
             }
-            Console.WriteLine(queue);
-        }
-        
+        }        
     }
 }

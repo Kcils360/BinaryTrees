@@ -19,7 +19,7 @@ namespace postOrder
             string InOrderString = "";
             tree.PrintTree(root, ref InOrderString);
 
-            BreadthFirst(root, data);
+            tree.BreadthFirst();
             Console.Read();
         }
     }
