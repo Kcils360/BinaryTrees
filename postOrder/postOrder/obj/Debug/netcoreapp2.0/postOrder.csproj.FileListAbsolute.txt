@@ -3,7 +3,6 @@ C:\Users\admin\codefellows\401\BinaryTrees\postOrder\postOrder\bin\Debug\netcore
 C:\Users\admin\codefellows\401\BinaryTrees\postOrder\postOrder\bin\Debug\netcoreapp2.0\postOrder.runtimeconfig.dev.json
 C:\Users\admin\codefellows\401\BinaryTrees\postOrder\postOrder\bin\Debug\netcoreapp2.0\postOrder.dll
 C:\Users\admin\codefellows\401\BinaryTrees\postOrder\postOrder\bin\Debug\netcoreapp2.0\postOrder.pdb
-C:\Users\admin\codefellows\401\BinaryTrees\postOrder\postOrder\obj\Debug\netcoreapp2.0\postOrder.csprojResolveAssemblyReference.cache
 C:\Users\admin\codefellows\401\BinaryTrees\postOrder\postOrder\obj\Debug\netcoreapp2.0\postOrder.csproj.CoreCompileInputs.cache
 C:\Users\admin\codefellows\401\BinaryTrees\postOrder\postOrder\obj\Debug\netcoreapp2.0\postOrder.AssemblyInfoInputs.cache
 C:\Users\admin\codefellows\401\BinaryTrees\postOrder\postOrder\obj\Debug\netcoreapp2.0\postOrder.AssemblyInfo.cs

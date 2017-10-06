@@ -16,3 +16,4 @@ namespace breadthFirst
             right = null;
         }
     }
+}

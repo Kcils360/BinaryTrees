@@ -1,0 +1,11 @@
+C:\Users\admin\codefellows\401\BinaryTrees\breadthFirst\breadthFirst\breadthFirst\obj\Debug\netcoreapp2.0\breadthFirst.csprojResolveAssemblyReference.cache
+C:\Users\admin\codefellows\401\BinaryTrees\breadthFirst\breadthFirst\breadthFirst\obj\Debug\netcoreapp2.0\breadthFirst.csproj.CoreCompileInputs.cache
+C:\Users\admin\codefellows\401\BinaryTrees\breadthFirst\breadthFirst\breadthFirst\obj\Debug\netcoreapp2.0\breadthFirst.AssemblyInfoInputs.cache
+C:\Users\admin\codefellows\401\BinaryTrees\breadthFirst\breadthFirst\breadthFirst\obj\Debug\netcoreapp2.0\breadthFirst.AssemblyInfo.cs
+C:\Users\admin\codefellows\401\BinaryTrees\breadthFirst\breadthFirst\breadthFirst\bin\Debug\netcoreapp2.0\breadthFirst.deps.json
+C:\Users\admin\codefellows\401\BinaryTrees\breadthFirst\breadthFirst\breadthFirst\bin\Debug\netcoreapp2.0\breadthFirst.runtimeconfig.json
+C:\Users\admin\codefellows\401\BinaryTrees\breadthFirst\breadthFirst\breadthFirst\bin\Debug\netcoreapp2.0\breadthFirst.runtimeconfig.dev.json
+C:\Users\admin\codefellows\401\BinaryTrees\breadthFirst\breadthFirst\breadthFirst\bin\Debug\netcoreapp2.0\breadthFirst.dll
+C:\Users\admin\codefellows\401\BinaryTrees\breadthFirst\breadthFirst\breadthFirst\bin\Debug\netcoreapp2.0\breadthFirst.pdb
+C:\Users\admin\codefellows\401\BinaryTrees\breadthFirst\breadthFirst\breadthFirst\obj\Debug\netcoreapp2.0\breadthFirst.dll
+C:\Users\admin\codefellows\401\BinaryTrees\breadthFirst\breadthFirst\breadthFirst\obj\Debug\netcoreapp2.0\breadthFirst.pdb

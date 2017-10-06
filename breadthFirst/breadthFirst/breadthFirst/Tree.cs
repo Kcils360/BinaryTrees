@@ -52,22 +52,7 @@ namespace breadthFirst
 
         public void BreadthFirst(Node L, ref string s)
         {
-            s = s + root.Value.ToString().PadLeft(3);
-
-            while(L.left != null && L.right != null)
-            if (root.left != null && root.right != null)
-            {
-     
-                s = s + root.left.Value;
-                s = s + root.right.Value;
-                L = root.left;
-
-            }
-            if (root.right != null)
-            {
-                s = s + root.right.Value;
-            }
-            
+  
         }
     }
 }
