@@ -21,8 +21,7 @@ namespace breadthFirst
             string PostOrderString = "";
             tree.PostOrder(root, ref PostOrderString);
 
-            string BreadthFirstString = "";
-            tree.BreadthFirst(root, ref BreadthFirstString);
+            tree.BreadthFirst(root);
 
             Console.Read(); ;
         }

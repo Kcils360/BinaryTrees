@@ -17,9 +17,9 @@ namespace postOrder
             root.left.right = new Node(7);
 
             string InOrderString = "";
-            tree.PrintTree(root, ref InOrderString);
+           // tree.PrintTree(root, ref InOrderString);
 
-            tree.BreadthFirst();
+            tree.BreadthFirst(root);
             Console.Read();
         }
     }
